@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-repo/your-app.git
+    repoURL: https://github.com/Burakhan/argocd-test-vault.git
     targetRevision: HEAD
     path: path/to/your/app
     plugin:
